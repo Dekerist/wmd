@@ -1,4 +1,15 @@
-
+<head>
+  <style>
+    .hero-container {
+        display:flex;
+        align-items:center;
+        gap:20px;
+    }
+    .hero-container img{
+      width:250px;    
+    }
+ </style>
+</head>
 body { 
 
     font-family: Arial, sans-serif; 
