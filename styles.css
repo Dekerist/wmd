@@ -8,6 +8,9 @@
     .hero-container img{
       width:250px;    
     }
+    .hero-description{
+        text-align:right;
+    }
  </style>
 </head>
 body { 
